@@ -1,1 +1,2 @@
 # DLS
+## Drug-protein interactions predicted according to the DLS method. The predicted drug-protein pairs are ranked based on calculated scores. To ensure the reliability of the predicted results, the predicted top 1000 drug-protein pairs are given in the form of a list. We hope that these results will help developers and researchers. The first column indicates the predicted ranking; the second column indicates the drug; the third column indicates the protein; and the fourth column indicates the score calculated by the DLS method.
